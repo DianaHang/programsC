@@ -7,3 +7,4 @@ Dichos programas fueron actividades propuestas en clases de programación impart
 
 Elaborados por: Diana García Melgarejo.
 
+![Logo del proyecto](Portada-MAC.png)
